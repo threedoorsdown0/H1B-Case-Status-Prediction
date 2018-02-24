@@ -26,7 +26,7 @@ You can find the datasets required for the scripts in this repo over [here](http
 * cleaned2017.csv contains the cleaned version of the above dataset.
 * train.csv, test.csv contain the training and testing datasets used for Random Forest.
 
-The compiled code can be found in [Compiled_Code.r](https://github.com/mihinsumaria/H1B-Case-Status-Prediction/blob/master/Compiled_Code.r)
+The compiled code can be found in [Compiled_Code.r](https://github.com/threedoorsdown0/H1B-Case-Status-Prediction/blob/master/Compiled_Code.r)
 Download "H-1B_Disclosure_Data_FY17.xlsx" to your local system, and on line 2 change the path of read_csv to that of the file you just downloaded.
 
 You can install any of the packages above in the following manner:
@@ -41,7 +41,7 @@ install.packages('PACKAGE_NAME_HERE')
 * Turing Cluster at WPI - Used for high-performance computing required for Random Forest and KNN. More information can be found [here](http://arc.wpi.edu/resources/hardware/hpc-clusters/)
 
 ## Project Report
-A comprehensive report of what this project entails can be found [here](https://github.com/mihinsumaria/H1B-Case-Status-Prediction/blob/master/DS%20502%20Report.pdf).
+A comprehensive report of what this project entails can be found [here](https://github.com/threedoorsdown0/H1B-Case-Status-Prediction/blob/master/DS%20502%20Report.pdf).
 
 ## Authors
 * Mihin Sumaria
@@ -51,7 +51,7 @@ A comprehensive report of what this project entails can be found [here](https://
 * Jinal Jain
 
 ## Who do I talk to?
-For any questions send an email at mssumaria@wpi.edu
+For any questions send an email at msawant@wpi.edu
 
 
 
